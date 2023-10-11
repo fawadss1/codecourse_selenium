@@ -1,0 +1,137 @@
+Category,Titles,Duration,Episodes,Links
+PHP,PHP Enums, 31 mins, 7 episodes,https://codecourse.com/courses/php-enums
+PHP,New in PHP 8,1 hr 3 mins, 11 episodes,https://codecourse.com/courses/new-in-php-8
+PHP,New in PHP 7.4, 44 mins, 12 episodes,https://codecourse.com/courses/new-in-php-7-4
+PHP,PHP Arrow Functions, 27 mins, 6 episodes,https://codecourse.com/courses/php-arrow-functions
+PHP,Array Destructuring in PHP, 23 mins, 9 episodes,https://codecourse.com/courses/array-destructuring-in-php
+PHP,How middleware works, 20 mins, 1 episode,https://codecourse.com/courses/how-middleware-works
+PHP,Build a PHP Validator From Scratch,1 hr 53 mins, 18 episodes,https://codecourse.com/courses/build-a-php-validator-from-scratch
+PHP,All About Exceptions,1 hr 51 mins, 7 episodes,https://codecourse.com/courses/all-about-php-exceptions
+PHP,Every PHP Magic Method,1 hr 55 mins, 17 episodes,https://codecourse.com/courses/every-php-magic-method
+PHP,The Pagination Builder,1 hr 4 mins, 10 episodes,https://codecourse.com/courses/the-pagination-builder
+PHP,Roll your own Facades, 18 mins, 4 episodes,https://codecourse.com/courses/roll-your-own-facades
+PHP,JWT Authentication from Scratch,1 hr 24 mins, 14 episodes,https://codecourse.com/courses/jwt-authentication-from-scratch
+PHP,Action-Domain-Responder (ADR) with Laravel,1 hr 16 mins, 10 episodes,https://codecourse.com/courses/action-domain-responder-with-laravel
+PHP,Action-Domain-Responder (ADR) with Slim, 55 mins, 7 episodes,https://codecourse.com/courses/action-domain-responder-adr-with-slim
+PHP,Cleaning up code with dynamic method calling, 17 mins, 1 episode,https://codecourse.com/courses/cleaning-up-code-with-dynamic-method-calling
+PHP,"The ""No Framework"" Framework",6 hrs 51 mins, 46 episodes,https://codecourse.com/courses/the-no-framework-framework
+PHP,Build your own realtime PHP server,2 hrs 29 mins, 18 episodes,https://codecourse.com/courses/build-your-own-realtime-php-server
+PHP,Create a Telegram reminder app,1 hr 24 mins, 12 episodes,https://codecourse.com/courses/create-a-telegram-reminder-app
+PHP,Learn how autowiring works, 44 mins, 3 episodes,https://codecourse.com/courses/learn-how-autowiring-works
+PHP,Roll your own task scheduler,1 hr 26 mins, 11 episodes,https://codecourse.com/courses/roll-your-own-task-scheduler
+PHP,Realtime PHP with Ratchet,1 hr 42 mins, 13 episodes,https://codecourse.com/courses/realtime-php-with-ratchet
+PHP,Roll your own event dispatcher, 49 mins, 9 episodes,https://codecourse.com/courses/roll-your-own-event-dispatcher
+PHP,Vue/Vuex Single Page App Boilerplate,2 hrs 31 mins, 18 episodes,https://codecourse.com/courses/vue-laravel-spa
+PHP,Drag and drop sorting with Laravel, 49 mins, 6 episodes,https://codecourse.com/courses/laravel-drag-and-drop-sorting
+PHP,Build a classified ads site,7 hrs 8 mins, 44 episodes,https://codecourse.com/courses/build-a-classified-ads-site
+PHP,Slim 3 Pagination,1 hr 0 mins, 10 episodes,https://codecourse.com/courses/slim-3-pagination
+PHP,Roles and permissions in Laravel,1 hr 7 mins, 8 episodes,https://codecourse.com/courses/laravel-roles-and-permissions
+PHP,Build a Placekitten clone with Silex, 34 mins, 6 episodes,https://codecourse.com/courses/build-a-placekitten-clone
+PHP,Learn Slim 3,4 hrs 9 mins, 36 episodes,https://codecourse.com/courses/learn-slim-3
+PHP,Eloquent By Example,4 hrs 2 mins, 25 episodes,https://codecourse.com/courses/eloquent-by-example
+PHP,The Symfony Translation Component,1 hr 4 mins, 12 episodes,https://codecourse.com/courses/symfony-translation-component
+PHP,Building array helper functions,1 hr 10 mins, 9 episodes,https://codecourse.com/courses/building-array-helper-functions
+PHP,Symfony VarDumper, 22 mins, 4 episodes,https://codecourse.com/courses/symfony-vardumper
+PHP,Laravel Tagging package development,2 hrs 17 mins, 17 episodes,https://codecourse.com/courses/laravel-tagging-package-development
+PHP,Laravel Acceptance Testing,4 hrs 16 mins, 24 episodes,https://codecourse.com/courses/laravel-acceptance-testing
+PHP,Laravel third-party integration: Effortless spam detection,1 hr 21 mins, 11 episodes,https://codecourse.com/courses/laravel-spam-protection
+PHP,What's new in PHP 7.1, 52 mins, 12 episodes,https://codecourse.com/courses/php-71
+PHP,Unit testing with PHPUnit,1 hr 51 mins, 10 episodes,https://codecourse.com/courses/unit-testing-with-php-unit
+PHP,API Development with Laravel,2 hrs 35 mins, 19 episodes,https://codecourse.com/courses/api-development-with-laravel
+PHP,Paginated Vue Components with Laravel, 44 mins, 8 episodes,https://codecourse.com/courses/paginated-vue-components-with-laravel
+PHP,Beautiful Slim CSRF Protection, 23 mins, 4 episodes,https://codecourse.com/courses/beautiful-slim-csrf-protection
+PHP,Slim Controllers,1 hr 13 mins, 9 episodes,https://codecourse.com/courses/slim-controllers
+PHP,Multiple File Drag & Drop Uploader,1 hr 53 mins, 14 episodes,https://codecourse.com/courses/multiple-file-drag-and-drop-uploader
+PHP,Caching with Redis,1 hr 2 mins, 7 episodes,https://codecourse.com/courses/caching-with-redis
+PHP,PHP Basics,5 hrs 4 mins, 35 episodes,https://codecourse.com/courses/php-basics
+PHP,Build and deploy an on-the-fly image manipulation microservice,2 hrs 28 mins, 19 episodes,https://codecourse.com/courses/image-manipulation-microservice
+PHP,Passwordless Authentication with Laravel, 52 mins, 6 episodes,https://codecourse.com/courses/passwordless-authentication-with-laravel
+PHP,Flexible Social Authentication with Laravel,1 hr 17 mins, 9 episodes,https://codecourse.com/courses/flexible-social-authentication-with-laravel
+PHP,The Symfony Console Component,1 hr 56 mins, 11 episodes,https://codecourse.com/courses/symfony-console-component
+PHP,Laravel YouTube Clone,8 hrs 12 mins, 59 episodes,https://codecourse.com/courses/laravel-youtube-clone
+PHP,PHP Essentials,3 hrs 3 mins, 27 episodes,https://codecourse.com/courses/php-essentials
+PHP,Laravel Queues,1 hr 7 mins, 6 episodes,https://codecourse.com/courses/laravel-queues
+PHP,SPL Interfaces and Classes, 32 mins, 5 episodes,https://codecourse.com/courses/spl-interfaces-and-classes
+PHP,Real-time command line chat, 32 mins, 2 episodes,https://codecourse.com/courses/real-time-command-line-chat
+PHP,Tips for cleaner code, 46 mins, 6 episodes,https://codecourse.com/courses/tips-for-cleaner-code
+PHP,Two Factor Authentication with Laravel,1 hr 37 mins, 9 episodes,https://codecourse.com/courses/two-factor-authentication-with-laravel
+PHP,Tidying up controllers with view composers, 22 mins, 2 episodes,https://codecourse.com/courses/tidying-up-controllers-with-view-composers
+PHP,Arrays are everything,2 hrs 19 mins, 15 episodes,https://codecourse.com/courses/arrays-are-everything
+PHP,Laravel Subscriptions,2 hrs 11 mins, 14 episodes,https://codecourse.com/courses/laravel-subscriptions
+PHP,Roll your own mini framework,1 hr 22 mins, 10 episodes,https://codecourse.com/courses/build-your-own-php-framework
+PHP,Build a Twitter Bot with Laravel,1 hr 5 mins, 9 episodes,https://codecourse.com/courses/build-a-twitter-bot-laravel
+PHP,Build a Twitter Bot, 34 mins, 4 episodes,https://codecourse.com/courses/build-a-twitter-bot
+PHP,Laravel Tasklist (Intermediate), 49 mins, 11 episodes,https://codecourse.com/courses/laravel-tasklist-intermediate
+PHP,Laravel Tasklist (Beginner), 47 mins, 7 episodes,https://codecourse.com/courses/laravel-tasklist-basic
+PHP,Mini image upload project,1 hr 10 mins, 7 episodes,https://codecourse.com/courses/mini-php-upload-project
+PHP,Practical Object Oriented Programming,3 hrs 28 mins, 22 episodes,https://codecourse.com/courses/practical-object-oriented-programming
+PHP,Build a beautiful blog with Laravel,1 hr 52 mins, 13 episodes,https://codecourse.com/courses/build-a-beautiful-blog-with-laravel
+PHP,Securing configuration, 13 mins, 1 episode,https://codecourse.com/courses/securing-php-configuration
+PHP,Build a shopping cart,4 hrs 40 mins, 15 episodes,https://codecourse.com/courses/build-a-shopping-cart
+PHP,Design Patterns: Singleton Pattern, 15 mins, 1 episode,https://codecourse.com/courses/design-patterns-singleton-pattern
+PHP,Custom session handlers, 20 mins, 1 episode,https://codecourse.com/courses/custom-php-database-session-handler
+PHP,Single-page Forum App: API,2 hrs 14 mins, 16 episodes,https://codecourse.com/courses/single-page-forum-app-api
+PHP,Validation with Slim 3, 48 mins, 5 episodes,https://codecourse.com/courses/validation-with-slim-3
+PHP,Eloquent and Slim, 41 mins, 4 episodes,https://codecourse.com/courses/laravel-eloquent-with-slim-3
+PHP,Design Patterns: Factory Pattern, 23 mins, 3 episodes,https://codecourse.com/courses/design-patterns-factory-pattern
+PHP,Laravel Events and Listeners, 28 mins, 3 episodes,https://codecourse.com/courses/laravel-events-and-listeners
+PHP,Authentication with Slim 3,2 hrs 44 mins, 29 episodes,https://codecourse.com/courses/slim-3-authentication
+PHP,Controllers and Dependency Injection with Slim 3, 34 mins, 4 episodes,https://codecourse.com/courses/slim-3-controllers-dependency-injection
+PHP,Custom 404 views with Slim 3, 8 mins, 1 episode,https://codecourse.com/courses/slim-3-custom-404-views
+PHP,Design Patterns: Specification Pattern, 24 mins, 2 episodes,https://codecourse.com/courses/design-patterns-specification
+PHP,Random numbers and bytes with PHP7, 5 mins, 1 episode,https://codecourse.com/courses/php7-random-numbers-and-strings
+PHP,Easy social authentication, 45 mins, 5 episodes,https://codecourse.com/courses/easy-social-authentication
+PHP,Design Patterns: Adapter Pattern, 6 mins, 1 episode,https://codecourse.com/courses/design-patterns-adapter-pattern
+PHP,Learn Laravel,4 hrs 21 mins, 42 episodes,https://codecourse.com/courses/laravel-fundamentals
+PHP,Design Patterns: Observer Pattern, 30 mins, 2 episodes,https://codecourse.com/courses/design-patterns-observer-pattern
+PHP,Design Patterns: Decorator Pattern, 14 mins, 1 episode,https://codecourse.com/courses/design-patterns-decorator
+PHP,Custom Pagination Presenters with Laravel, 18 mins, 1 episode,https://codecourse.com/courses/custom-pagination-presenters-links-laravel
+PHP,MailChimp with Laravel, 30 mins, 8 episodes,https://codecourse.com/courses/mailchimp-laravel
+PHP,Enforcing referential integrity with the Laravel Schema builder, 12 mins, 1 episode,https://codecourse.com/courses/referential-integrity-laravel
+PHP,Build a Twitter style application,1 hr 48 mins, 21 episodes,https://codecourse.com/courses/twitter-style-application
+PHP,Lightning fast Laravel Authentication, 24 mins, 3 episodes,https://codecourse.com/courses/quick-laravel-authentication
+PHP,Vue.js todo list, 32 mins, 3 episodes,https://codecourse.com/courses/vue-js-todo-list
+PHP,Design Patterns: Strategy Pattern, 33 mins, 3 episodes,https://codecourse.com/courses/design-patterns-strategy
+PHP,PSR-4 Autoloading with Composer, 6 mins, 1 episode,https://codecourse.com/courses/psr-4-autoloading-with-composer
+PHP,Build a storage class, 29 mins, 4 episodes,https://codecourse.com/courses/build-a-storage-class
+PHP,Flexible Service Providers, 18 mins, 3 episodes,https://codecourse.com/courses/flexible-laravel-service-providers
+PHP,Templates with Twig, 44 mins, 14 episodes,https://codecourse.com/courses/templates-with-twig
+PHP,Build your own Collection class, 38 mins, 7 episodes,https://codecourse.com/courses/build-your-own-collection-class
+PHP,Get started with Laravel Lumen, 37 mins, 10 episodes,https://codecourse.com/courses/getting-started-laravel-lumen
+PHP,Build a REST API, 56 mins, 12 episodes,https://codecourse.com/courses/php-rest-api
+PHP,Laravel Route Model Binding, 3 mins, 1 episode,https://codecourse.com/courses/laravel-route-model-binding
+PHP,"So, what's an interface?", 8 mins, 1 episode,https://codecourse.com/courses/php-interfaces
+PHP,The best of PHP 7, 17 mins, 5 episodes,https://codecourse.com/courses/php-7-new-features
+PHP,Laravel searching with Algolia, 20 mins, 7 episodes,https://codecourse.com/courses/laravel-search-algolia
+PHP,Flashing messages with Slim 3, 13 mins, 2 episodes,https://codecourse.com/courses/slim-3-flash-messages
+PHP,Understanding namespaces, 20 mins, 3 episodes,https://codecourse.com/courses/php-namespaces
+PHP,Sending SMS with Twillio, 12 mins, 4 episodes,https://codecourse.com/courses/sending-sms-with-twillio
+PHP,Self-destructing message app, 58 mins, 13 episodes,https://codecourse.com/courses/self-destructing-message-app
+PHP,Sending email with Mailgun, 20 mins, 8 episodes,https://codecourse.com/courses/sending-email-with-mailgun
+PHP,Configuration with Slim 3, 11 mins, 1 episode,https://codecourse.com/courses/configuration-with-slim-3
+PHP,Generating secure random strings with PHP, 9 mins, 3 episodes,https://codecourse.com/courses/securely-generate-strings-php
+PHP,Protecting email addresses from bots, 17 mins, 4 episodes,https://codecourse.com/courses/protect-email-addresses-from-bots
+PHP,PDO with Slim 3, 12 mins, 5 episodes,https://codecourse.com/courses/pdo-with-slim-3
+PHP,Views with Slim 3, 14 mins, 5 episodes,https://codecourse.com/courses/views-with-slim-3
+PHP,Quickly converting an array to an object in PHP, 3 mins, 1 episode,https://codecourse.com/courses/php-convert-array-to-object
+PHP,Learn PDO (PHP Data Objects),1 hr 1 min, 21 episodes,https://codecourse.com/courses/php-pdo-data-objects
+PHP,Location searching with Google Maps and MongoDB, 59 mins, 12 episodes,https://codecourse.com/courses/google-maps-mongodb-search
+PHP,Fun with Ternery Operators in PHP, 5 mins, 1 episode,https://codecourse.com/courses/php-ternery-operators
+PHP,Basic location searching with MongoDB, 20 mins, 6 episodes,https://codecourse.com/courses/location-search-with-mongodb
+PHP,Generating PDF files from HTML and CSS, 34 mins, 7 episodes,https://codecourse.com/courses/generate-pdf-from-html-css
+PHP,PHP Security,1 hr 10 mins, 10 episodes,https://codecourse.com/courses/php-security
+PHP,Cloud Image Upload with Laravel, 35 mins, 7 episodes,https://codecourse.com/courses/cloud-image-upload-laravel
+PHP,Flexible flash notifications in Laravel, 12 mins, 5 episodes,https://codecourse.com/courses/laravel-flash-notifications
+PHP,Realtime chat with Pusher, 54 mins, 8 episodes,https://codecourse.com/courses/realtime-chat-with-pusher
+PHP,Database Models with PDO, 39 mins, 8 episodes,https://codecourse.com/courses/database-models-with-pdo
+PHP,Social Network,4 hrs 6 mins, 37 episodes,https://codecourse.com/courses/social-network
+PHP,Realtime notifications with Pusher, 26 mins, 5 episodes,https://codecourse.com/courses/real-time-notifications-with-pusher
+PHP,Send Email With PHPMailer, 20 mins, 5 episodes,https://codecourse.com/courses/send-email-with-phpmailer
+PHP,The SOLID Design Principals, 12 mins, 5 episodes,https://codecourse.com/courses/the-solid-design-principals
+PHP,The PHP Reflection API, 14 mins, 5 episodes,https://codecourse.com/courses/the-php-reflection-api
+PHP,Using PHP's Built-In Web Server, 6 mins, 1 episode,https://codecourse.com/courses/using-php-built-in-web-server
+PHP,Dates And Times in PHP,1 hr 8 mins, 13 episodes,https://codecourse.com/courses/dates-and-times-in-php
+PHP,Flattening A PHP Multidimensional Array, 12 mins, 1 episode,https://codecourse.com/courses/flattening-a-php-multidimensional-array
+PHP,Generate Fake Data with PHP using Faker, 14 mins, 1 episode,https://codecourse.com/courses/generate-fake-data-with-php-using-faker
+PHP,Generate Scannable QR Codes With PHP, 12 mins, 1 episode,https://codecourse.com/courses/generate-scannable-qr-codes-with-php
+PHP,Regular Expressions, 24 mins, 11 episodes,https://codecourse.com/courses/regular-expressions-basics

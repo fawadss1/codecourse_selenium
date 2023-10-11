@@ -1,0 +1,57 @@
+{
+  "Category": {
+    "0": "Flutter",
+    "1": "Flutter",
+    "2": "Flutter",
+    "3": "Flutter",
+    "4": "Flutter",
+    "5": "Flutter",
+    "6": "Flutter",
+    "7": "Flutter",
+    "8": "Flutter"
+  },
+  "Titles": {
+    "0": "Flutter Authentication with Laravel Sanctum",
+    "1": "Authentication with Flutter",
+    "2": "Build a notes app with Flutter",
+    "3": "Flutter State Management with Provider",
+    "4": "Build a Devspiration app",
+    "5": "API Requests with Flutter",
+    "6": "Build a shopping list with Flutter",
+    "7": "Setting up Flutter",
+    "8": "Your first Flutter app"
+  },
+  "Duration": {
+    "0": "1 hr 18 mins",
+    "1": "1 hr 14 mins",
+    "2": " 48 mins",
+    "3": " 11 mins",
+    "4": "1 hr 28 mins",
+    "5": " 47 mins",
+    "6": " 29 mins",
+    "7": " 15 mins",
+    "8": " 28 mins"
+  },
+  "Episodes": {
+    "0": " 16 episodes",
+    "1": " 14 episodes",
+    "2": " 10 episodes",
+    "3": " 1 episode",
+    "4": " 18 episodes",
+    "5": " 6 episodes",
+    "6": " 8 episodes",
+    "7": " 6 episodes",
+    "8": " 7 episodes"
+  },
+  "Links": {
+    "0": "https:\/\/codecourse.com\/courses\/flutter-authentication-with-laravel-sanctum",
+    "1": "https:\/\/codecourse.com\/courses\/authentication-with-flutter",
+    "2": "https:\/\/codecourse.com\/courses\/build-a-notes-app-with-flutter",
+    "3": "https:\/\/codecourse.com\/courses\/flutter-state-management-with-provider",
+    "4": "https:\/\/codecourse.com\/courses\/build-a-devspiration-app",
+    "5": "https:\/\/codecourse.com\/courses\/api-requests-with-flutter",
+    "6": "https:\/\/codecourse.com\/courses\/build-a-shopping-list-with-flutter",
+    "7": "https:\/\/codecourse.com\/courses\/setting-up-flutter",
+    "8": "https:\/\/codecourse.com\/courses\/your-first-flutter-app"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "Category": {
+    "0": "Inertia",
+    "1": "Inertia",
+    "2": "Inertia",
+    "3": "Inertia",
+    "4": "Inertia",
+    "5": "Inertia",
+    "6": "Inertia",
+    "7": "Inertia"
+  },
+  "Titles": {
+    "0": "Infinite Scrolling with Inertia",
+    "1": "Translations with Laravel and Inertia",
+    "2": "Learn Inertia",
+    "3": "Build a Forum with Inertia and Laravel",
+    "4": "Easy Pagination with Inertia",
+    "5": "Installing Inertia from Scratch",
+    "6": "Flexible Flash Notifications with Inertia",
+    "7": "Build An Uptime Monitor with Inertia"
+  },
+  "Duration": {
+    "0": " 29 mins",
+    "1": " 57 mins",
+    "2": "2 hrs 20 mins",
+    "3": "6 hrs 54 mins",
+    "4": " 16 mins",
+    "5": "1 hr 7 mins",
+    "6": " 28 mins",
+    "7": "4 hrs 59 mins"
+  },
+  "Episodes": {
+    "0": " 1 episode",
+    "1": " 9 episodes",
+    "2": " 28 episodes",
+    "3": " 62 episodes",
+    "4": " 1 episode",
+    "5": " 14 episodes",
+    "6": " 7 episodes",
+    "7": " 44 episodes"
+  },
+  "Links": {
+    "0": "https:\/\/codecourse.com\/courses\/infinite-scrolling-with-inertia",
+    "1": "https:\/\/codecourse.com\/courses\/translations-with-laravel-and-inertia",
+    "2": "https:\/\/codecourse.com\/courses\/learn-inertia",
+    "3": "https:\/\/codecourse.com\/courses\/build-a-forum-with-inertia-and-laravel",
+    "4": "https:\/\/codecourse.com\/courses\/easy-pagination-with-inertia",
+    "5": "https:\/\/codecourse.com\/courses\/installing-inertia-from-scratch",
+    "6": "https:\/\/codecourse.com\/courses\/flexible-flash-notifications-with-inertia",
+    "7": "https:\/\/codecourse.com\/courses\/build-an-uptime-monitor-with-inertia"
+  }
+}
